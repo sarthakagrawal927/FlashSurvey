@@ -1,2 +1,13 @@
 # FlashSurvey
-Learned MERN Stack while following the course, payment part may not work rn.
+
+## Purpose
+
+To understand various api and full stack applications
+
+## Backend
+
+Google Auth, Sendgrid Mail API, Stripe Payment. NodeJS -> Express
+
+## Frontend
+
+ReactJS
